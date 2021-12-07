@@ -1,4 +1,4 @@
-# assignment4
+# Assignment4
 Steps to run the code:
 
 a) Inside the folder, "assignment-4-dhyeyayushjay", run "make" command.<br>
